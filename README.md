@@ -14,6 +14,7 @@ A console-based Payment Processing System built in Python as part of a bootcamp 
 - Object-Oriented Programming (OOP)
 
 ## Project Structure
+```
 payment-processing-system/
 │
 ├── main.py
@@ -22,10 +23,13 @@ payment-processing-system/
     ├── __init__.py
     ├── payment.py
     └── payment_method.py
+```
 
 ## How to Run
 Run the program using:
+```
 python main.py
+```
 
 ## Learning Outcome
 This project helped in understanding:
